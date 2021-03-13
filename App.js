@@ -12,7 +12,7 @@ const LONGITUDE_DELTA = 0.009;
 const LATITUDE = 18.7934829;
 const LONGITUDE = 98.9867401;
 
-const GOOGLE_MAPS_APIKEY = 'AIzaSyAl3048T5X7pyyVCrtvQnZ-nswb9ZGbTwY';
+const GOOGLE_MAPS_APIKEY = 'Your-Key';
 
 import { NativeModules } from 'react-native';
 const reactNativeVersion = NativeModules.PlatformConstants.reactNativeVersion;
